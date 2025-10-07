@@ -3,7 +3,7 @@
 [check project on GSlides](https://docs.google.com/presentation/d/1J-q0vUuzfEVb2Qozb7POXj2vhEDfaNRfJ4vpAlJgAMs/edit?usp=sharing)
 
 **The main idea:**
->To build a fully understandble report within Google Slides based on Google Sheets project.
+>To build a fully understandable report within Google Slides based on Google Sheets project.
 >
 >(Development and justification of a business strategy on Q5 to achieve maximum profit.)
 
