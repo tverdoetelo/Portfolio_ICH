@@ -46,7 +46,7 @@
 >
 >Based on results, proposal were formulated with particular steps.
 >
->![Proposal](dashboards/proposal.png)>
+>![Proposal](dashboards/proposal.png)
 
 **Conclusion:**
 
