@@ -1,5 +1,6 @@
 ## The third project of the advanced training for Data Analysts:
 ### Marketplace Analytics
+[check project on GDrive](https://drive.google.com/file/d/1PjI6opHB72Ubd3ySeU5KQGEP815hbnDp/view?usp=sharing)
 
 **The main idea:**
 >To build a fully understandable and self-contained BI report and dashboard from a dataset.
